@@ -46,7 +46,13 @@ This project is compatible with GitHub Pages because it is a static site.
 4. Select the `main` branch and the `/ (root)` folder.
 5. Save the settings and wait for GitHub Pages to publish.
 
-Your site will then be available from the GitHub Pages URL shown in the repository settings.
+Expected site URL:
+
+```text
+https://christinabkk.github.io/MayTT26/
+```
+
+If GitHub shows a different published URL in the Pages settings, use the one shown there.
 
 ## Notes
 
