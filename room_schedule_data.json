@@ -492,7 +492,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/14 - Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B4011",
     "Teacher": "Fiona Fu"
   },
   {
@@ -564,7 +564,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9708/NE - G11 ElevateU Economics",
-    "Room": "B1029",
+    "Room": "B1034",
     "Teacher": "Zoe Wang"
   },
   {
@@ -1692,7 +1692,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9618/33 - Advanced Theory 33",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Bill Jiang"
   },
   {
@@ -1748,7 +1748,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0478/12 - Paper 12 Computer Systems",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Bill Jiang"
   },
   {
@@ -1780,7 +1780,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/14 - Multiple Choice 14",
-    "Room": "B2041",
+    "Room": "B4007",
     "Teacher": "Judy Zhu"
   },
   {
@@ -1788,7 +1788,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9231/24 - Further Pure Mathematics 24",
-    "Room": "B2043",
+    "Room": "B4011",
     "Teacher": "Rajesh Choyikkunimmal"
   },
   {
@@ -1876,7 +1876,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4004",
+    "Room": "B4005",
     "Teacher": "Steve Pan"
   },
   {
@@ -1892,7 +1892,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9618/43 - Practical 43",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Bill Jiang"
   },
   {
@@ -1924,7 +1924,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9868/12 - Reading (Multiple Choice) 12",
-    "Room": "B3009",
+    "Room": "B3007",
     "Teacher": "Ivy Zhu"
   },
   {
@@ -1940,7 +1940,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9709/NE - G11 ElevateU Maths",
-    "Room": "B3011",
+    "Room": "B3012",
     "Teacher": "Joy Farhat"
   },
   {
@@ -2084,7 +2084,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9231/24 - Further Pure Mathematics 24",
-    "Room": "B1034",
+    "Room": "B2039",
     "Teacher": "Rajesh Choyikkunimmal"
   },
   {
@@ -2100,7 +2100,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0478/12 - INTENSIVE: Paper 12 Computer Systems",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Amit Bishan"
   },
   {
@@ -2108,7 +2108,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9700/24 - INTENSIVE: AS Level Structured Questions 24",
-    "Room": "B2039",
+    "Room": "B4007",
     "Teacher": "Fisher Yu"
   },
   {
@@ -2116,7 +2116,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9700/54 - INTENSIVE: Planning, Analysis and Evaluation 54",
-    "Room": "B2040",
+    "Room": "B4007",
     "Teacher": "Fisher Yu"
   },
   {
@@ -2124,7 +2124,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9231/34 - Further Mechanics 34",
-    "Room": "B1034",
+    "Room": "B3041",
     "Teacher": "Celia Sun"
   },
   {
@@ -2156,7 +2156,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9231/44 - Further Probability & Statistics 44",
-    "Room": "B2040",
+    "Room": "B2042",
     "Teacher": "Mandy Chen"
   },
   {
@@ -2172,7 +2172,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0530/23 - Reading 23",
-    "Room": "B2043",
+    "Room": "B3043",
     "Teacher": "Ruben Castilla"
   },
   {
@@ -2188,7 +2188,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0472/12 - Listening (Multiple Choice) 12",
-    "Room": "B3007",
+    "Room": "B4010",
     "Teacher": "Sherry Yuan"
   },
   {
@@ -2212,7 +2212,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0511/22 - Listening Multiple Choice 22",
-    "Room": "B3011",
+    "Room": "B1037",
     "Teacher": "Jenna Dunn"
   },
   {
@@ -2220,7 +2220,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0511/NE - G10 General English",
-    "Room": "B3012",
+    "Room": "B3044",
     "Teacher": "Kelly Ding"
   },
   {
@@ -2268,7 +2268,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4004",
+    "Room": "B4011",
     "Teacher": "Steve Pan"
   },
   {
@@ -2276,7 +2276,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0511/22 - Listening Multiple Choice 22",
-    "Room": "B4012",
+    "Room": "B4009",
     "Teacher": "Warwick Midlane"
   },
   {
@@ -2300,7 +2300,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9702/14 - Multiple Choice 14",
-    "Room": "B2036",
+    "Room": "B2039",
     "Teacher": "Leon Zhang"
   },
   {
@@ -2340,7 +2340,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "0625/62 - Alternative to Practical 62",
-    "Room": "B3027",
+    "Room": "B2042",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -2388,7 +2388,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "0625/62 - Alternative to Practical 62",
-    "Room": "B4002",
+    "Room": "B3010",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -2492,7 +2492,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4002",
+    "Room": "B3043",
     "Teacher": "Chester Lim"
   },
   {
@@ -2500,7 +2500,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4004",
+    "Room": "B3041",
     "Teacher": "Faisal Qureshi"
   },
   {
@@ -2508,7 +2508,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4005",
+    "Room": "B4010",
     "Teacher": "Leon Zhang"
   },
   {
@@ -2524,7 +2524,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/54 - Planning, Analysis and Evaluation 54",
-    "Room": "B1034",
+    "Room": "B4011",
     "Teacher": "Fiona Fu"
   },
   {
@@ -2540,7 +2540,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0625/62 - Alternative to Practical 62",
-    "Room": "B2040",
+    "Room": "B2042",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -2548,7 +2548,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9868/12 - Reading (Multiple Choice) 12",
-    "Room": "B3009",
+    "Room": "B3010",
     "Teacher": "Ivy Zhu"
   },
   {
@@ -2564,7 +2564,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0625/62 - Alternative to Practical 62",
-    "Room": "B4002",
+    "Room": "B3040",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -2572,7 +2572,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0625/62 - Alternative to Practical 62",
-    "Room": "B4004",
+    "Room": "B3041",
     "Teacher": "Chester Lim"
   },
   {
@@ -2580,7 +2580,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0625/62 - Alternative to Practical 62",
-    "Room": "B4005",
+    "Room": "B4009",
     "Teacher": "Evelyn Yang"
   },
   {
@@ -2604,7 +2604,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B4002",
+    "Room": "B3041",
     "Teacher": "Chester Lim"
   },
   {
@@ -2612,7 +2612,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B4004",
+    "Room": "B3011",
     "Teacher": "Faisal Qureshi"
   },
   {
@@ -2620,7 +2620,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B4005",
+    "Room": "B3039",
     "Teacher": "Mike Hu"
   },
   {
@@ -2628,7 +2628,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B4007",
+    "Room": "B2042",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -2660,7 +2660,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0455/22 - Structured Questions 22",
-    "Room": "B2041",
+    "Room": "B1029",
     "Teacher": "Marshall Irby"
   },
   {
@@ -2668,7 +2668,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2043",
+    "Room": "B4011",
     "Teacher": "Melody Chen"
   },
   {
@@ -2700,7 +2700,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/54 - Planning, Analysis and Evaluation 54",
-    "Room": "B4002",
+    "Room": "B3042",
     "Teacher": "Leon Zhang"
   },
   {
@@ -2708,7 +2708,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "0478/22 - Paper 22 Algorithms, Programming and Logic",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Amit Bishan"
   },
   {
@@ -2780,7 +2780,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B1034",
+    "Room": "B2041",
     "Teacher": "Faisal Qureshi"
   },
   {
@@ -2804,7 +2804,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B2040",
+    "Room": "B4011",
     "Teacher": "Evelyn Yang"
   },
   {
@@ -2876,7 +2876,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4002",
+    "Room": "B3010",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -2884,7 +2884,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4004",
+    "Room": "B4009",
     "Teacher": "Chester Lim"
   },
   {
@@ -2892,7 +2892,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4005",
+    "Room": "B4009",
     "Teacher": "Chester Lim"
   },
   {
@@ -2908,7 +2908,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9618/43 - Practical 43",
-    "Room": "B1034",
+    "Room": "B1037",
     "Teacher": "Amit Bishan"
   },
   {
@@ -2980,7 +2980,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "4HI101R - INTENSIVE: Paper 1R: Depth Studies",
-    "Room": "B2044",
+    "Room": "B1029",
     "Teacher": "Keith Seeley"
   },
   {
@@ -2996,7 +2996,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9696/32 - INTENSIVE: Advanced Physical Geography Options 32",
-    "Room": "B2036",
+    "Room": "B3039",
     "Teacher": "Alex Oniango"
   },
   {
@@ -3012,7 +3012,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0455/22 - Structured Questions 22",
-    "Room": "B2040",
+    "Room": "B3040",
     "Teacher": "Marshall Irby"
   },
   {
@@ -3028,7 +3028,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0455/22 - Structured Questions 22",
-    "Room": "B2043",
+    "Room": "B4010",
     "Teacher": "Reza Hamroun"
   },
   {
@@ -3060,7 +3060,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4002",
+    "Room": "B3005",
     "Teacher": "Chester Lim"
   },
   {
@@ -3116,7 +3116,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2041",
+    "Room": "B3011",
     "Teacher": "Jenny Li"
   },
   {
@@ -3124,7 +3124,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9701/24 - AS Level Structured Questions 24",
-    "Room": "B2043",
+    "Room": "B4009",
     "Teacher": "Judy Zhu"
   },
   {
@@ -3132,7 +3132,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B3007",
+    "Room": "B3005",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -3148,7 +3148,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9231/44 - Further Probability & Statistics 44",
-    "Room": "B3012",
+    "Room": "B3010",
     "Teacher": "Shaosong Liu"
   },
   {
@@ -3196,7 +3196,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0478/22 - Paper 22 Algorithms, Programming and Logic",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Bill Jiang"
   },
   {
@@ -3244,7 +3244,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0460/43 - Alternative to Coursework 43",
-    "Room": "B2044",
+    "Room": "B2042",
     "Teacher": "Keith Seeley"
   },
   {
@@ -3252,7 +3252,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9696/42 - Advanced Human Geography Options 42",
-    "Room": "B2044",
+    "Room": "B2042",
     "Teacher": "Keith Seeley"
   },
   {
@@ -3308,7 +3308,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0472/12 - Listening (Multiple Choice) 12",
-    "Room": "B3039",
+    "Room": "B4010",
     "Teacher": "Sally Guo"
   },
   {
@@ -3340,7 +3340,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/54 - Planning, Analysis and Evaluation 54",
-    "Room": "B4004",
+    "Room": "B4005",
     "Teacher": "Leon Zhang"
   },
   {
@@ -3356,7 +3356,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B1034",
+    "Room": "B4007",
     "Teacher": "Fiona Fu"
   },
   {
@@ -3364,7 +3364,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B2039",
+    "Room": "B4005",
     "Teacher": "Judy Zhu"
   },
   {
@@ -3372,7 +3372,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9231/44 - Further Probability & Statistics 44",
-    "Room": "B2040",
+    "Room": "B4010",
     "Teacher": "Mandy Chen"
   },
   {
@@ -3388,7 +3388,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0530/43 - Writing 43",
-    "Room": "B2043",
+    "Room": "B2036",
     "Teacher": "Ruben Castilla"
   },
   {
@@ -3396,7 +3396,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0460/43 - Alternative to Coursework 43",
-    "Room": "B2044",
+    "Room": "B3009",
     "Teacher": "Keith Seeley"
   },
   {
@@ -3412,7 +3412,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9231/44 - Further Probability & Statistics 44",
-    "Room": "B4002",
+    "Room": "B4012",
     "Teacher": "Shaosong Liu"
   },
   {
@@ -3436,7 +3436,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/24 - INTENSIVE: AS Level Structured Questions 24",
-    "Room": "B1034",
+    "Room": "B4007",
     "Teacher": "Fiona Fu"
   },
   {
@@ -3452,7 +3452,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/24 - INTENSIVE: AS Level Structured Questions 24",
-    "Room": "B2040",
+    "Room": "B3002",
     "Teacher": "Judy Zhu"
   },
   {
@@ -3460,7 +3460,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/54 - INTENSIVE: Planning, Analysis and Evaluation 54",
-    "Room": "B2041",
+    "Room": "B3005",
     "Teacher": "Khurram Shezad"
   },
   {
@@ -3468,7 +3468,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0606/12 - INTENSIVE: Paper 12 Non-calculator",
-    "Room": "B3011",
+    "Room": "B3040",
     "Teacher": "Alice Mei"
   },
   {
@@ -3476,7 +3476,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0606/12 - INTENSIVE: Paper 12 Non-calculator",
-    "Room": "B3012",
+    "Room": "B3043",
     "Teacher": "Dirk Guan"
   },
   {
@@ -3500,7 +3500,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2039",
+    "Room": "B4011",
     "Teacher": "Jenny Li"
   },
   {
@@ -3516,7 +3516,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0530/13 - Listening (Multiple Choice) 13",
-    "Room": "B2041",
+    "Room": "B2036",
     "Teacher": "Ruben Castilla"
   },
   {
@@ -3540,7 +3540,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "0530/23 - INTENSIVE: Reading 23",
-    "Room": "B1034",
+    "Room": "B2036",
     "Teacher": "Ruben Castilla"
   },
   {
@@ -3612,7 +3612,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9618/33 - INTENSIVE: Advanced Theory 33",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Bill Jiang"
   },
   {
@@ -3636,7 +3636,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0620/22 - Multiple Choice (Extended) 22",
-    "Room": "B3004",
+    "Room": "B3007",
     "Teacher": "Alistair Furze"
   },
   {
@@ -3668,7 +3668,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4002",
+    "Room": "B3004",
     "Teacher": "Chester Lim"
   },
   {
@@ -3756,7 +3756,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4004",
+    "Room": "B4011",
     "Teacher": "Steve Pan"
   },
   {
@@ -3772,7 +3772,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9708/44 - INTENSIVE: A Level Data Response and Essays 44",
-    "Room": "B1034",
+    "Room": "B3010",
     "Teacher": "Fahran Nzamy"
   },
   {
@@ -3788,7 +3788,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0625/62 - INTENSIVE: Alternative to Practical 62",
-    "Room": "B2040",
+    "Room": "B3002",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -3796,7 +3796,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0625/62 - INTENSIVE: Alternative to Practical 62",
-    "Room": "B4002",
+    "Room": "B3004",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -3804,7 +3804,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0625/62 - INTENSIVE: Alternative to Practical 62",
-    "Room": "B4004",
+    "Room": "B3011",
     "Teacher": "Chester Lim"
   },
   {
@@ -3844,7 +3844,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2039",
+    "Room": "B3009",
     "Teacher": "Melody Chen"
   },
   {
@@ -3860,7 +3860,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4002",
+    "Room": "B3011",
     "Teacher": "Chester Lim"
   },
   {
@@ -3868,7 +3868,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4004",
+    "Room": "B4011",
     "Teacher": "Faisal Qureshi"
   },
   {
@@ -3876,7 +3876,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4005",
+    "Room": "B4009",
     "Teacher": "Leon Zhang"
   },
   {
@@ -3884,7 +3884,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/24 - AS Level Structured Questions 24",
-    "Room": "B4007",
+    "Room": "B3002",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -3892,7 +3892,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9618/43 - Practical 43",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Bill Jiang"
   },
   {
@@ -3908,7 +3908,7 @@
     "Start Time": "13:00",
     "End Time": "16:00",
     "Class": "0460/43 - INTENSIVE: Alternative to Coursework 43",
-    "Room": "B1034",
+    "Room": "B2036",
     "Teacher": "Alex Oniango"
   },
   {
@@ -3932,7 +3932,7 @@
     "Start Time": "13:00",
     "End Time": "16:00",
     "Class": "0472/12 - Listening (Multiple Choice) 12",
-    "Room": "B3011",
+    "Room": "B4010",
     "Teacher": "Sally Guo"
   },
   {
@@ -3956,7 +3956,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9700/14 - Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B3007",
     "Teacher": "Lily Hung"
   },
   {
@@ -3988,7 +3988,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B1034",
+    "Room": "B4005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -4004,7 +4004,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B2039",
+    "Room": "B3004",
     "Teacher": "Judy Zhu"
   },
   {
@@ -4012,7 +4012,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0511/22 - Listening Multiple Choice 22",
-    "Room": "B2040",
+    "Room": "B2042",
     "Teacher": "Warwick Midlane"
   },
   {
@@ -4052,7 +4052,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0511/22 - Listening Multiple Choice 22",
-    "Room": "B4002",
+    "Room": "B4009",
     "Teacher": "Samuel Pottas"
   },
   {
@@ -4060,7 +4060,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0478/22 - INTENSIVE: Paper 22 Algorithms, Programming and Logic",
-    "Room": "B1034",
+    "Room": "B1029",
     "Teacher": "Amit Bishan"
   },
   {
@@ -4068,7 +4068,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/54 - INTENSIVE: Planning, Analysis and Evaluation 54",
-    "Room": "B2040",
+    "Room": "B3005",
     "Teacher": "Leon Zhang"
   },
   {
@@ -4084,7 +4084,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/24 - INTENSIVE: AS Level Structured Questions 24",
-    "Room": "B4004",
+    "Room": "B4002",
     "Teacher": "Chester Lim"
   },
   {
@@ -4092,7 +4092,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/24 - INTENSIVE: AS Level Structured Questions 24",
-    "Room": "B4005",
+    "Room": "B3002",
     "Teacher": "Evelyn Yang"
   },
   {
@@ -4108,7 +4108,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0511/NE - G10 General English",
-    "Room": "B3010",
+    "Room": "B3040",
     "Teacher": "Kelly Ding"
   },
   {
@@ -4116,7 +4116,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0606/22 - Paper 22 Calculator",
-    "Room": "B3011",
+    "Room": "B3004",
     "Teacher": "Alice Mei"
   },
   {
@@ -4124,7 +4124,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0606/22 - Paper 22 Calculator",
-    "Room": "B3012",
+    "Room": "B3039",
     "Teacher": "Dirk Guan"
   },
   {
@@ -4140,7 +4140,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B4009",
     "Teacher": "Steve Pan"
   },
   {
@@ -4164,7 +4164,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "0530/43 - INTENSIVE: Writing 43",
-    "Room": "B2039",
+    "Room": "B2036",
     "Teacher": "Ruben Castilla"
   },
   {
@@ -4212,7 +4212,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9231/44 - Further Probability & Statistics 44",
-    "Room": "B2036",
+    "Room": "B3043",
     "Teacher": "Shaosong Liu"
   },
   {
@@ -4220,7 +4220,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9700/38 - Advanced Practical Skills 38",
-    "Room": "B2039",
+    "Room": "B3007",
     "Teacher": "Fisher Yu"
   },
   {
@@ -4228,7 +4228,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2040",
+    "Room": "B2042",
     "Teacher": "Jenny Li"
   },
   {
@@ -4252,7 +4252,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0530/13 - INTENSIVE: Listening (Multiple Choice) 13",
-    "Room": "B3009",
+    "Room": "B2036",
     "Teacher": "Ruben Castilla"
   },
   {
@@ -4268,7 +4268,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/14 - Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B4005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -4276,7 +4276,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9701/14 - Multiple Choice 14",
-    "Room": "B2039",
+    "Room": "B4004",
     "Teacher": "Judy Zhu"
   },
   {
@@ -4308,7 +4308,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0472/12 - INTENSIVE: Listening (Multiple Choice) 12",
-    "Room": "B1034",
+    "Room": "B4009",
     "Teacher": "Sherry Yuan"
   },
   {
@@ -4324,7 +4324,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0511/22 - INTENSIVE: Listening Multiple Choice 22",
-    "Room": "B2040",
+    "Room": "B4010",
     "Teacher": "Samuel Pottas"
   },
   {
@@ -4332,7 +4332,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0511/22 - INTENSIVE: Listening Multiple Choice 22",
-    "Room": "B3009",
+    "Room": "B4012",
     "Teacher": "Warwick Midlane"
   },
   {
@@ -4340,7 +4340,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0511/22 - INTENSIVE: Listening Multiple Choice 22",
-    "Room": "B3010",
+    "Room": "B1029",
     "Teacher": "Helen Liu"
   },
   {
@@ -4380,7 +4380,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0511/22 - INTENSIVE: Listening Multiple Choice 22",
-    "Room": "B4002",
+    "Room": "B3040",
     "Teacher": "Sally Guo"
   },
   {
@@ -4396,7 +4396,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B2039",
+    "Room": "B3004",
     "Teacher": "Christine Du"
   },
   {
@@ -4412,7 +4412,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9700/14 - Multiple Choice 14",
-    "Room": "B2041",
+    "Room": "B3002",
     "Teacher": "Lily Hung"
   },
   {
@@ -4420,7 +4420,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2043",
+    "Room": "B3043",
     "Teacher": "Melody Chen"
   },
   {
@@ -4428,7 +4428,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0511/NE - G10 General English",
-    "Room": "B3010",
+    "Room": "B4004",
     "Teacher": "Kurt Shelton"
   },
   {
@@ -4436,7 +4436,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B4002",
+    "Room": "B3041",
     "Teacher": "Winnie Hu"
   },
   {
@@ -4460,7 +4460,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9708/NE - G11 ElevateU Economics",
-    "Room": "B2039",
+    "Room": "B2036",
     "Teacher": "Zoe Wang"
   },
   {
@@ -4548,7 +4548,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0455/22 - INTENSIVE: Structured Questions 22",
-    "Room": "B2040",
+    "Room": "B3039",
     "Teacher": "Joyce Zhou"
   },
   {
@@ -4564,7 +4564,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0455/22 - INTENSIVE: Structured Questions 22",
-    "Room": "B2043",
+    "Room": "B1029",
     "Teacher": "Reza Hamroun"
   },
   {
@@ -4580,7 +4580,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B1034",
+    "Room": "B4005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -4588,7 +4588,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9700/38 - Advanced Practical Skills 38",
-    "Room": "B2039",
+    "Room": "B3007",
     "Teacher": "Fisher Yu"
   },
   {
@@ -4596,7 +4596,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2040",
+    "Room": "B4010",
     "Teacher": "Jenny Li"
   },
   {
@@ -4604,7 +4604,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B2041",
+    "Room": "B4004",
     "Teacher": "Judy Zhu"
   },
   {
@@ -4612,7 +4612,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2043",
+    "Room": "B4011",
     "Teacher": "Melody Chen"
   },
   {
@@ -4628,7 +4628,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0511/NE - G10 General English",
-    "Room": "B3010",
+    "Room": "B3040",
     "Teacher": "Kelly Ding"
   },
   {
@@ -4684,7 +4684,7 @@
     "Start Time": "13:00",
     "End Time": "16:00",
     "Class": "9231/24 - INTENSIVE: Further Pure Mathematics 24",
-    "Room": "B1034",
+    "Room": "B3009",
     "Teacher": "Rajesh Choyikkunimmal"
   },
   {
@@ -4724,7 +4724,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0455/12 - Multiple Choice 12",
-    "Room": "B1034",
+    "Room": "B3012",
     "Teacher": "Christine Du"
   },
   {
@@ -4740,7 +4740,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0455/12 - Multiple Choice 12",
-    "Room": "B2040",
+    "Room": "B3039",
     "Teacher": "Joyce Zhou"
   },
   {
@@ -4756,7 +4756,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0455/12 - Multiple Choice 12",
-    "Room": "B2043",
+    "Room": "B3040",
     "Teacher": "Reza Hamroun"
   },
   {
@@ -4804,7 +4804,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/14 - Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B3005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -4852,7 +4852,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0606/22 - Paper 22 Calculator",
-    "Room": "B3011",
+    "Room": "B4010",
     "Teacher": "Dirk Guan"
   },
   {
@@ -4860,7 +4860,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0606/22 - Paper 22 Calculator",
-    "Room": "B3012",
+    "Room": "B4011",
     "Teacher": "Emily Qin"
   },
   {
@@ -4892,7 +4892,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3004",
     "Teacher": "Steve Pan"
   },
   {
@@ -4900,7 +4900,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/14 - Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B3005",
     "Teacher": "Leon Zhang"
   },
   {
@@ -4924,7 +4924,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/14 - Multiple Choice 14",
-    "Room": "B2040",
+    "Room": "B3004",
     "Teacher": "Faisal Qureshi"
   },
   {
@@ -4948,7 +4948,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4002",
+    "Room": "B4011",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -4956,7 +4956,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4004",
+    "Room": "B3002",
     "Teacher": "Chester Lim"
   },
   {
@@ -4964,7 +4964,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9702/14 - Multiple Choice 14",
-    "Room": "B4005",
+    "Room": "B3002",
     "Teacher": "Chester Lim"
   },
   {
@@ -5020,7 +5020,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9709/NE - G11 ElevateU Maths",
-    "Room": "B3011",
+    "Room": "B3010",
     "Teacher": "Joy Farhat"
   },
   {
@@ -5036,7 +5036,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B4002",
+    "Room": "B3009",
     "Teacher": "Zoe Wang"
   },
   {
@@ -5044,7 +5044,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9700/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B1034",
+    "Room": "B4007",
     "Teacher": "Fisher Yu"
   },
   {
@@ -5068,7 +5068,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/38 - Advanced Practical Skills 38",
-    "Room": "B1034",
+    "Room": "B3005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -5092,7 +5092,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2041",
+    "Room": "B4011",
     "Teacher": "Melody Chen"
   },
   {
@@ -5116,7 +5116,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3004",
     "Teacher": "Steve Pan"
   },
   {
@@ -5124,7 +5124,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9708/NE - G11 ElevateU Economics",
-    "Room": "B1034",
+    "Room": "B3039",
     "Teacher": "Zoe Wang"
   },
   {
@@ -5228,7 +5228,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B1034",
+    "Room": "B3009",
     "Teacher": "Jenny Li"
   },
   {
@@ -5244,7 +5244,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "4HI102R - Paper 2R: Investigation and Breadth Studies",
-    "Room": "B2044",
+    "Room": "B2041",
     "Teacher": "Keith Seeley"
   },
   {
@@ -5316,7 +5316,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3002",
     "Teacher": "Steve Pan"
   },
   {
@@ -5348,7 +5348,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B2040",
+    "Room": "B2041",
     "Teacher": "Zoe Wang"
   },
   {
@@ -5372,7 +5372,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0620/22 - Multiple Choice (Extended) 22",
-    "Room": "B3005",
+    "Room": "B3007",
     "Teacher": "Selina Sun"
   },
   {
@@ -5404,7 +5404,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B1034",
+    "Room": "B3005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -5412,7 +5412,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/38 - INTENSIVE: Advanced Practical Skills 38",
-    "Room": "B2039",
+    "Room": "B3012",
     "Teacher": "Judy Zhu"
   },
   {
@@ -5420,7 +5420,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9700/14 - Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B3009",
     "Teacher": "Fisher Yu"
   },
   {
@@ -5452,7 +5452,7 @@
     "Start Time": "13:00",
     "End Time": "14:25",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3002",
     "Teacher": "Steve Pan"
   },
   {
@@ -5460,7 +5460,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9231/44 - INTENSIVE: Further Probability & Statistics 44",
-    "Room": "B1034",
+    "Room": "B3005",
     "Teacher": "Celia Sun"
   },
   {
@@ -5468,7 +5468,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9708/NE - G11 ElevateU Economics",
-    "Room": "B1034",
+    "Room": "B3009",
     "Teacher": "Zoe Wang"
   },
   {
@@ -5484,7 +5484,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B2040",
+    "Room": "B3010",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -5500,7 +5500,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4002",
+    "Room": "B3039",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -5508,7 +5508,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4004",
+    "Room": "B3004",
     "Teacher": "Chester Lim"
   },
   {
@@ -5516,7 +5516,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4005",
+    "Room": "B4010",
     "Teacher": "Evelyn Yang"
   },
   {
@@ -5524,7 +5524,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4007",
+    "Room": "B4009",
     "Teacher": "Logan Tian"
   },
   {
@@ -5628,7 +5628,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2039",
+    "Room": "B3009",
     "Teacher": "Jenny Li"
   },
   {
@@ -5636,7 +5636,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9701/14 - Multiple Choice 14",
-    "Room": "B2040",
+    "Room": "B4004",
     "Teacher": "Judy Zhu"
   },
   {
@@ -5652,7 +5652,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "4HI102R - Paper 2R: Investigation and Breadth Studies",
-    "Room": "B2044",
+    "Room": "B2039",
     "Teacher": "Keith Seeley"
   },
   {
@@ -5660,7 +5660,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "0610/22 - Multiple Choice (Extended) 22",
-    "Room": "B3002",
+    "Room": "B3007",
     "Teacher": "Lily Hung"
   },
   {
@@ -5684,7 +5684,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B2039",
     "Teacher": "Christine Du"
   },
   {
@@ -5692,7 +5692,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B2040",
+    "Room": "B3002",
     "Teacher": "Raufie Shafie"
   },
   {
@@ -5708,7 +5708,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B2043",
+    "Room": "B3011",
     "Teacher": "Zoe Wang"
   },
   {
@@ -5732,7 +5732,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "0625/22 - Multiple Choice (Extended) 22",
-    "Room": "B4002",
+    "Room": "B3004",
     "Teacher": "Andrew Beckett"
   },
   {
@@ -5820,7 +5820,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/14 - Multiple Choice 14",
-    "Room": "B4005",
+    "Room": "B3004",
     "Teacher": "Leon Zhang"
   },
   {
@@ -5892,7 +5892,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3009",
     "Teacher": "Steve Pan"
   },
   {
@@ -5908,7 +5908,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/14 - INTENSIVE: Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B4005",
     "Teacher": "Fiona Fu"
   },
   {
@@ -5916,7 +5916,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9701/14 - INTENSIVE: Multiple Choice 14",
-    "Room": "B2039",
+    "Room": "B4002",
     "Teacher": "Judy Zhu"
   },
   {
@@ -5924,7 +5924,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B1034",
+    "Room": "B3009",
     "Teacher": "Jenny Li"
   },
   {
@@ -6052,7 +6052,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/14 - INTENSIVE: Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B3002",
     "Teacher": "Leon Zhang"
   },
   {
@@ -6068,7 +6068,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/14 - INTENSIVE: Multiple Choice 14",
-    "Room": "B2040",
+    "Room": "B3004",
     "Teacher": "Faisal Qureshi"
   },
   {
@@ -6084,7 +6084,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0625/22 - INTENSIVE: Multiple Choice (Extended) 22",
-    "Room": "B4002",
+    "Room": "B3005",
     "Teacher": "Chester Lim"
   },
   {
@@ -6092,7 +6092,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9702/14 - INTENSIVE: Multiple Choice 14",
-    "Room": "B4004",
+    "Room": "B3005",
     "Teacher": "Chester Lim"
   },
   {
@@ -6116,7 +6116,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B1034",
+    "Room": "B4009",
     "Teacher": "Jenny Li"
   },
   {
@@ -6132,7 +6132,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9708/34 - A Level Multiple Choice 34",
-    "Room": "B2040",
+    "Room": "B2038",
     "Teacher": "Zachary Herold"
   },
   {
@@ -6156,7 +6156,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9708/NE - G11 ElevateU Economics",
-    "Room": "B1034",
+    "Room": "B3011",
     "Teacher": "Zoe Wang"
   },
   {
@@ -6204,7 +6204,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3002",
     "Teacher": "Steve Pan"
   },
   {
@@ -6220,7 +6220,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9700/14 - INTENSIVE: Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B3004",
     "Teacher": "Fisher Yu"
   },
   {
@@ -6236,7 +6236,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B1034",
+    "Room": "B4009",
     "Teacher": "Jenny Li"
   },
   {
@@ -6316,7 +6316,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0455/12 - INTENSIVE: Multiple Choice 12",
-    "Room": "B2040",
+    "Room": "B3009",
     "Teacher": "Helgaard Le Roux"
   },
   {
@@ -6332,7 +6332,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0455/12 - INTENSIVE: Multiple Choice 12",
-    "Room": "B2043",
+    "Room": "B4010",
     "Teacher": "Marshall Irby"
   },
   {
@@ -6348,7 +6348,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "0455/12 - INTENSIVE: Multiple Choice 12",
-    "Room": "B4002",
+    "Room": "B3039",
     "Teacher": "Winnie Hu"
   },
   {
@@ -6364,7 +6364,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B2039",
+    "Room": "B2038",
     "Teacher": "Zachary Herold"
   },
   {
@@ -6372,7 +6372,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9708/14 - AS Level Multiple Choice 14",
-    "Room": "B2040",
+    "Room": "B4012",
     "Teacher": "Zoe Wang"
   },
   {
@@ -6388,7 +6388,7 @@
     "Start Time": "10:00",
     "End Time": "12:10",
     "Class": "9702/NE - G11 ElevateU Physics",
-    "Room": "B4002",
+    "Room": "B3002",
     "Teacher": "Steve Pan"
   },
   {
@@ -6420,7 +6420,7 @@
     "Start Time": "14:35",
     "End Time": "16:00",
     "Class": "9868/NE - G11 Chinese",
-    "Room": "B2039",
+    "Room": "B4009",
     "Teacher": "Melody Chen"
   },
   {
@@ -6444,7 +6444,7 @@
     "Start Time": "08:20",
     "End Time": "09:45",
     "Class": "9708/NE - G11 ElevateU Economics",
-    "Room": "B1034",
+    "Room": "B4009",
     "Teacher": "Zoe Wang"
   },
   {
@@ -6452,7 +6452,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9708/14 - INTENSIVE: AS Level Multiple Choice 14",
-    "Room": "B1034",
+    "Room": "B4010",
     "Teacher": "Christine Du"
   },
   {
@@ -6468,7 +6468,7 @@
     "Start Time": "08:20",
     "End Time": "12:10",
     "Class": "9708/14 - INTENSIVE: AS Level Multiple Choice 14",
-    "Room": "B2040",
+    "Room": "B2041",
     "Teacher": "Zachary Herold"
   },
   {
